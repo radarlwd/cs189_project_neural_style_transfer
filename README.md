@@ -9,10 +9,16 @@ the loss functions it defines
 how it uses gradient descent
 the effect of different choices of hyperparameters
 
-This repository contains 
+This repository contains:
+
 Note - Neural Style Transfer Note.pdf
+
 Slides - Neural Style Transfer Slides.pdf
+
 Quiz - Neural Style Transfer Quiz.pdf
+
 Quiz Answer Key - Neural Style Transfer Quiz Answer Key.pdf
+
 Project - 
+
 Project Answer Key - 
