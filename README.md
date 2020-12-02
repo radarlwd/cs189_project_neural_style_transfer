@@ -12,14 +12,9 @@ After this project, you should feel comfortable with the following:
 
 This repository contains:
 
-Note - Neural Style Transfer Note.pdf
-
-Slides - Neural Style Transfer Slides.pdf
-
-Quiz - Neural Style Transfer Quiz.pdf
-
-Quiz Answer Key - Neural Style Transfer Quiz Answer Key.pdf
-
-Project - Neural Style Transfer With Solutions.ipynb
-
-Project Answer Key - Neural Style Transfer Without Solutions.ipynb
+- Note - Neural Style Transfer Note.pdf
+- Slides - Neural Style Transfer Slides.pdf
+- Quiz - Neural Style Transfer Quiz.pdf
+- Quiz Answer Key - Neural Style Transfer Quiz Answer Key.pdf
+- Project - Neural Style Transfer With Solutions.ipynb
+- Project Answer Key - Neural Style Transfer Without Solutions.ipynb
