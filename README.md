@@ -18,3 +18,5 @@ This repository contains:
 - Quiz Answer Key - Neural Style Transfer Quiz Answer Key.pdf
 - Project - Neural Style Transfer With Solutions.ipynb
 - Project Answer Key - Neural Style Transfer Without Solutions.ipynb
+
+You can run both Jupyter books in Google Colab
