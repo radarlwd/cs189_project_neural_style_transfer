@@ -1,4 +1,7 @@
 # cs189_project_neural_style_transfer
+
+This project covers the use of Neural Style Transfer, how it works, and a few interesting examples using it. We assume the student has already seen Gradient Descent, Back Propagation, Convolutional Neural Networks, and how to use Pretrained Models. We will also use tensorflow, and briefly cover hyperparameter tuning, which would be useful for the student to know, but these topics are not necessary to master.
+
 After this project, you should feel comfortable with the following:
 
 - Running pretrained convolutional neural network (CNN) models
@@ -19,4 +22,4 @@ This repository contains:
 - Project - Neural Style Transfer With Solutions.ipynb
 - Project Answer Key - Neural Style Transfer Without Solutions.ipynb
 
-You can run both Jupyter books in Google Colab
+You can run both Jupyter notebooks in Google Colab
